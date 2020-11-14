@@ -1,7 +1,6 @@
 
 # COMP9331 Assignment T2 2020
 # Name: Sidney Tandjiria
-# zID: z5272671
 # Language: Python 3.7
 
 # client.py
